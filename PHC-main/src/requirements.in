@@ -1,0 +1,13 @@
+streamlit
+watchdog
+lxml
+pandas
+numpy
+matplotlib
+python-dotenv
+openai
+langchain
+langchain-experimental
+pillow
+tabulate
+google-search-results
